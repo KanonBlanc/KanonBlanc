@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @KanonBlanc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+```js
+client.on('messageCreate', message => {
+  if(message.content.toLowerCase().includes("Is Paraluman eating food?")){
+    message.channel.send("Maybe? I don't know too.")
+  }
+  
+  if(message.content.toLowerCase().includes("Is paraluman always taking a nap?")) {
+    message.channel.send("Lol no")
+  }
+})
+```
 
-<!---
-KanonBlanc/KanonBlanc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```diff
++ Discord Bot Reborn
++ Server Collaborator
++ Website
+
+- Own server (I don't want to handle lmao)
+```
+
+[Discord Bot Link 1](https://top.gg/bot/920487181137625139) <br>
+[Discord Bot Link 2](https://discord.boats/bot/920487181137625139) <br>
+[Discord Bot Link 3](https://discordbotlist.com/bots/reborn)
+
+```html
+hello world
+```
