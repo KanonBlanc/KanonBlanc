@@ -14,12 +14,12 @@ client.on('messageCreate', message => {
 + Discord Bot Reborn
 + Server Collaborator
 + Website
-
-- Own server (I don't want to handle lmao)
++ Own server (On Progress)
 ```
 
 [Main Website](https://kanonblanc.github.io)
 
-```html
-hello world
-```
+
+<a href="https://top.gg/bot/920487181137625139">
+  <img src="https://top.gg/api/widget/920487181137625139.svg">
+</a>
