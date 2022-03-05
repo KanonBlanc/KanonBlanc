@@ -1,3 +1,10 @@
+---
+  Website:: Complete (Daily Updates)
+  Official Server:: 25% (Daily Updates)
+  Support Server:: 100%
+  Bot Development:: 78% (IDK, Daily Updates)
+---
+
 ```js
 client.on('messageCreate', message => {
   if(message.content.toLowerCase().includes("Is Paraluman eating food?")){
@@ -8,13 +15,6 @@ client.on('messageCreate', message => {
     message.channel.send("Lol no")
   }
 })
-```
-
-```diff
-+ Discord Bot Reborn
-+ Server Collaborator
-+ Website
-+ Own server (On Progress)
 ```
 
 [Main Website](https://kanonblanc.github.io)
